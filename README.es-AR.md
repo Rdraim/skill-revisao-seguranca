@@ -6,6 +6,10 @@
 
 # skill-revisao-seguranca
 
+<!-- public-badges:start -->
+[![license](assets/support/badge-license.svg)](LICENSE) [![CI](assets/support/badge-ci.svg)](https://github.com/Rdraim/skill-revisao-seguranca/actions) [![release](assets/support/badge-release.svg)](https://github.com/Rdraim/skill-revisao-seguranca/releases) [![Git](assets/support/badge-git.svg)](https://github.com/Rdraim/skill-revisao-seguranca/commits/main)
+<!-- public-badges:end -->
+
 Skill de revisión de seguridad para código web y APIs Node.js, distribuida como plugin de Claude Code. Produce hallazgos priorizados con evidencia y correcciones concretas. También es un ejemplo pequeño y legible de organización de SKILL.md para quienes empiezan. No incluye dependencias de ejecución, servicios externos, credenciales ni registros de usuarios.
 
 ## Descargá y revisá
