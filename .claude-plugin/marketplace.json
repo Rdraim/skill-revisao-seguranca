@@ -1,5 +1,6 @@
 {
   "name": "revisao-seguranca",
+  "metadata": { "description": "Revisão de segurança de código / Code security review, with synthetic evidence and scoped authorization." },
   "owner": { "name": "Rodrigo Rodrigues", "url": "https://github.com/techrodrigo21-ux" },
   "plugins": [
     { "name": "revisao-seguranca", "source": "./", "description": "Skill de revisao de seguranca para Claude Code." }
