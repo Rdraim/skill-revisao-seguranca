@@ -1,5 +1,7 @@
 # skill-revisao-seguranca
 
+[English (United States)](README.en-US.md) · [Apoio voluntário](SUPPORT.md)
+
 Plugin / **skill** de **revisão de segurança** para o [Claude Code](https://claude.com/claude-code).
 Um revisor pragmático de código web/APIs Node.js: acha o que pode ser explorado,
 aponta `arquivo:linha`, descreve o cenário e dá a correção.
@@ -49,3 +51,5 @@ skills/
 ## Licença
 
 MIT © Rodrigo Rodrigues
+
+A habilidade não autoriza exploração, mudanças em produção ou divulgação de dados. Os pacotes relacionados são referências opcionais. CEP tem validação de formato, não dígito verificador. Conteúdo público com exemplos sintéticos, sem dados do Nexus. Leia CONTRIBUTING.md, SECURITY.md e SUPPORT.md. Node.js 22+ para npm test. Referência oficial: https://code.claude.com/docs/en/plugins-reference
