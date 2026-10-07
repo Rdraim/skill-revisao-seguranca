@@ -24,17 +24,17 @@ dependência):
 
 | risco | biblioteca |
 |---|---|
-| nome de arquivo / path traversal | [`nome-seguro`](https://github.com/techrodrigo21-ux/nome-seguro) |
-| cabeçalhos HTTP | [`headers-seguros`](https://github.com/techrodrigo21-ux/headers-seguros) |
-| força bruta / varredura | [`escudo-express`](https://github.com/techrodrigo21-ux/escudo-express) |
-| cifra em repouso | [`cofre-campo`](https://github.com/techrodrigo21-ux/cofre-campo) |
-| segredo em log | [`mascarar-segredos`](https://github.com/techrodrigo21-ux/mascarar-segredos) |
-| CPF/CNPJ/CEP | [`documentos-br`](https://github.com/techrodrigo21-ux/documentos-br) |
+| nome de arquivo / path traversal | [`nome-seguro`](https://github.com/Rdraim/nome-seguro) |
+| cabeçalhos HTTP | [`headers-seguros`](https://github.com/Rdraim/headers-seguros) |
+| força bruta / varredura | [`escudo-express`](https://github.com/Rdraim/escudo-express) |
+| cifra em repouso | [`cofre-campo`](https://github.com/Rdraim/cofre-campo) |
+| segredo em log | [`mascarar-segredos`](https://github.com/Rdraim/mascarar-segredos) |
+| CPF/CNPJ/CEP | [`documentos-br`](https://github.com/Rdraim/documentos-br) |
 
 ## Instalação (Claude Code)
 
 ```
-/plugin marketplace add techrodrigo21-ux/skill-revisao-seguranca
+/plugin marketplace add Rdraim/skill-revisao-seguranca
 /plugin install revisao-seguranca@revisao-seguranca
 ```
 
@@ -79,7 +79,7 @@ Sou **Rodrigo Rodrigues**, criador do **Nexus** e destes projetos de código abe
 
 <p>
   <a href="#apoie-com-pix"><img src="assets/support/pix-pt-br.svg" width="190" height="44" alt="Apoiar com Pix"></a>
-  <a href="https://github.com/techrodrigo21-ux/skill-revisao-seguranca/issues/new?title=Coment%C3%A1rio%3A%20este%20projeto%20me%20ajudou"><img src="assets/support/comment-pt-br.svg" width="210" height="44" alt="Deixar um comentário"></a>
+  <a href="https://github.com/Rdraim/skill-revisao-seguranca/issues/new?title=Coment%C3%A1rio%3A%20este%20projeto%20me%20ajudou"><img src="assets/support/comment-pt-br.svg" width="210" height="44" alt="Deixar um comentário"></a>
 </p>
 
 ### Apoie com Pix
@@ -100,7 +100,7 @@ Você também pode apoiar compartilhando o projeto, relatando um problema, melho
 
 ### Seu comentário também faz diferença
 
-[Conte como o projeto te ajudou](https://github.com/techrodrigo21-ux/skill-revisao-seguranca/issues/new?title=Coment%C3%A1rio%3A%20este%20projeto%20me%20ajudou). Vou gostar de saber o que você criou, o que aprendeu e o que poderia ficar mais claro para quem está começando.
+[Conte como o projeto te ajudou](https://github.com/Rdraim/skill-revisao-seguranca/issues/new?title=Coment%C3%A1rio%3A%20este%20projeto%20me%20ajudou). Vou gostar de saber o que você criou, o que aprendeu e o que poderia ficar mais claro para quem está começando.
 
 O comentário é bem-vindo com ou sem doação. Preserve sua privacidade: não publique comprovantes, dados pessoais, credenciais ou informações de usuários nas Issues.
 

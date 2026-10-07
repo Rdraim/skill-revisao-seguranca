@@ -6,6 +6,10 @@
 
 # 1.2.0 — 2026-10-07
 
+## 1.2.1 — 2026-10-07
+
+Rdraim identity, visual presentation, compatibility review and more efficient history guard. Runtime API preserved.
+
 The integration `references/integracao.md` guides consumer reviews, pinned versions, licensing and persisted formats. Passing isolated module tests does not validate system integration.
 
 # 1.1.0 — 2026-10-07

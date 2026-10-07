@@ -11,7 +11,7 @@ Skill de revisión de seguridad para código web y APIs Node.js, distribuida com
 ## Descargá y revisá
 
 ```sh
-git clone https://github.com/techrodrigo21-ux/skill-revisao-seguranca.git
+git clone https://github.com/Rdraim/skill-revisao-seguranca.git
 cd skill-revisao-seguranca
 npm test
 node tools/check-public-content.mjs
@@ -22,7 +22,7 @@ Leé `skills/revisao-seguranca/SKILL.md` antes de habilitar la skill. Node.js 22
 ## Instalación en Claude Code
 
 ```text
-/plugin marketplace add techrodrigo21-ux/skill-revisao-seguranca
+/plugin marketplace add Rdraim/skill-revisao-seguranca
 /plugin install revisao-seguranca@revisao-seguranca
 ```
 
@@ -68,7 +68,7 @@ Soy **Rodrigo Rodrigues**, creador de **Nexus** y de estos proyectos de código 
 
 **Aportá el monto que tenga sentido para vos. El apoyo es totalmente voluntario; el proyecto sigue siendo gratuito bajo la licencia MIT.**
 
-[Apoyá con Pix](#apoyá-con-pix) · [Dejá un comentario](https://github.com/techrodrigo21-ux/skill-revisao-seguranca/issues/new?title=Comentario%3A%20este%20proyecto%20me%20ayud%C3%B3)
+[Apoyá con Pix](#apoyá-con-pix) · [Dejá un comentario](https://github.com/Rdraim/skill-revisao-seguranca/issues/new?title=Comentario%3A%20este%20proyecto%20me%20ayud%C3%B3)
 
 ### Apoyá con Pix
 
@@ -88,7 +88,7 @@ Pix es el sistema de pagos de Brasil. Si tu banco no lo admite, también podés 
 
 ### Tu comentario también suma
 
-[Contame cómo te ayudó el proyecto](https://github.com/techrodrigo21-ux/skill-revisao-seguranca/issues/new?title=Comentario%3A%20este%20proyecto%20me%20ayud%C3%B3). Me gustaría saber qué creaste, qué aprendiste y qué podría ser más claro para quienes recién empiezan.
+[Contame cómo te ayudó el proyecto](https://github.com/Rdraim/skill-revisao-seguranca/issues/new?title=Comentario%3A%20este%20proyecto%20me%20ayud%C3%B3). Me gustaría saber qué creaste, qué aprendiste y qué podría ser más claro para quienes recién empiezan.
 
 Los comentarios son bienvenidos con o sin donación. Cuidá tu privacidad: no publiques comprobantes de pago, datos personales, credenciales ni información privada de usuarios en las Issues.
 

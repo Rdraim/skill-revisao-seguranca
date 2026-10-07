@@ -1,10 +1,14 @@
 {
   "name": "skill-revisao-seguranca",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "private": true,
   "type": "module",
   "scripts": {
     "test": "node --test",
     "check:public": "node tools/check-public-content.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rdraim/skill-revisao-seguranca.git"
   }
 }
