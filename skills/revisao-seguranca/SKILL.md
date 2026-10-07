@@ -34,6 +34,10 @@ no foco atual, item a item, e reporte só o que se sustenta.
 
 ## Lista de verificação
 
+Para integrar componentes reutilizáveis em um sistema existente, consulte
+[integracao.md](references/integracao.md): contratos, versões fixadas, formatos
+persistidos e testes do consumidor precisam ser avaliados além do módulo isolado.
+
 - **Injeção** — SQL/NoSQL/comando/LDAP montados por concatenação de entrada. Exigir
   consulta parametrizada; nunca interpolar entrada em query ou shell.
 - **Autenticação/Autorização** — toda rota não pública confere sessão **e**
