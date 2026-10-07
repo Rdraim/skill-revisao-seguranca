@@ -6,6 +6,10 @@
 
 # skill-revisao-seguranca
 
+<!-- public-badges:start -->
+[![license](assets/support/badge-license.svg)](LICENSE) [![CI](assets/support/badge-ci.svg)](https://github.com/Rdraim/skill-revisao-seguranca/actions) [![release](assets/support/badge-release.svg)](https://github.com/Rdraim/skill-revisao-seguranca/releases)
+<!-- public-badges:end -->
+
 Plugin / **skill** de **revisão de segurança** para o [Claude Code](https://claude.com/claude-code).
 Um revisor pragmático de código web/APIs Node.js: acha o que pode ser explorado,
 aponta `arquivo:linha`, descreve o cenário e dá a correção.
