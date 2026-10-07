@@ -1,0 +1,7 @@
+{
+  "name": "revisao-seguranca",
+  "owner": { "name": "Rodrigo Rodrigues", "url": "https://github.com/techrodrigo21-ux" },
+  "plugins": [
+    { "name": "revisao-seguranca", "source": "./", "description": "Skill de revisao de seguranca para Claude Code." }
+  ]
+}

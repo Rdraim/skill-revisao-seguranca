@@ -1,0 +1,15 @@
+name: CI
+on:
+  push:
+    branches: [main]
+  pull_request:
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: validar manifestos JSON
+        run: node -e "const fs=require('fs');for(const f of ['.claude-plugin/plugin.json','.claude-plugin/marketplace.json'])JSON.parse(fs.readFileSync(f,'utf8'));console.log('manifestos ok')"

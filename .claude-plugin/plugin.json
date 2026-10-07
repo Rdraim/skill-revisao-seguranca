@@ -1,0 +1,7 @@
+{
+  "name": "revisao-seguranca",
+  "version": "1.0.0",
+  "description": "Revisao de seguranca de codigo web/APIs Node.js: achados priorizados (arquivo:linha, cenario de exploracao e correcao).",
+  "author": { "name": "Rodrigo Rodrigues" },
+  "license": "MIT"
+}
