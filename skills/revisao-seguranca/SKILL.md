@@ -1,13 +1,17 @@
 ---
 name: revisao-seguranca
-description: Review the security of web and Node.js API code when a security review is requested or a change introduces a concrete security risk. Report evidence, severity and actionable fixes. Does not authorize deployment, penetration testing or changes to production.
+description: Revisar a segurança de código web e APIs Node.js quando uma revisão for solicitada ou uma mudança introduzir risco concreto. Relatar evidências, severidade e correções. Não autoriza implantação, testes de intrusão ou alterações em produção.
 ---
+
+<p align="right">
+  <a href="SKILL.md"><img src="../../assets/support/flag-pt-br.svg" width="36" height="24" alt="Português brasileiro" title="Português brasileiro"></a>
+  <a href="references/review.en-US.md"><img src="../../assets/support/flag-en-us.svg" width="36" height="24" alt="English (United States)" title="English (United States)"></a>
+  <a href="references/review.es-AR.md"><img src="../../assets/support/flag-es-ar.svg" width="36" height="24" alt="Español (Argentina)" title="Español (Argentina)"></a>
+</p>
 
 # Revisão de segurança
 
-For English guidance, read [review.en-US.md](references/review.en-US.md) when helpful.
-
-Responda no idioma do usuário (português brasileiro ou inglês dos EUA). Esta
+Responda no idioma do usuário (português brasileiro, inglês dos EUA ou espanhol argentino). Esta
 habilidade pode ser usada no Claude Code ou em agentes compatíveis com SKILL.md.
 Ela orienta revisão; não concede acesso, autorização para explorar sistemas,
 instalar dependências, publicar dados, trocar credenciais ou modificar produção.

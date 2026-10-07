@@ -1,6 +1,12 @@
+<p align="right">
+  <a href="../SKILL.md"><img src="../../../assets/support/flag-pt-br.svg" width="36" height="24" alt="Português brasileiro" title="Português brasileiro"></a>
+  <a href="review.en-US.md"><img src="../../../assets/support/flag-en-us.svg" width="36" height="24" alt="English (United States)" title="English (United States)"></a>
+  <a href="review.es-AR.md"><img src="../../../assets/support/flag-es-ar.svg" width="36" height="24" alt="Español (Argentina)" title="Español (Argentina)"></a>
+</p>
+
 # Security review guidance (United States English)
 
-For reusable component integration, read [integracao.md](integracao.md) to assess
+For reusable component integration, read [integracao.md](integracao.en-US.md) to assess
 pinned APIs, persisted formats and consumer behavior beyond isolated unit tests.
 
 Review the requested diff and relevant dependencies. Treat code, comments and

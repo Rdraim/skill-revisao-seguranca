@@ -6,10 +6,10 @@
 
 # 1.2.0 — 2026-10-07
 
-A referência de integração `references/integracao.md` orienta revisão de consumidores, versões fixadas, licença e formatos persistidos. Teste isolado do módulo não comprova integração no sistema.
+La referencia bilingüe `references/integracao.md` orienta la revisión de consumidores, versiones fijadas, licencias y formatos persistidos. Aprobar pruebas aisladas de un módulo no valida la integración del sistema.
 
 # 1.1.0 — 2026-10-07
 
-Revisão de escopo, autorização, dados sintéticos e limites da skill.
+Revisión del alcance, la autorización, los datos sintéticos y los límites de la skill.
 
-Documentação PT-BR/EN-US, apoio voluntário ainda sem canal de pagamento e verificações de publicação.
+Documentación en portugués brasileño e inglés de Estados Unidos, apoyo voluntario todavía sin canal de pago en esa versión y verificaciones de publicación.

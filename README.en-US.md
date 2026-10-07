@@ -50,7 +50,7 @@ and limitations before recommending them.
 - `skills/revisao-seguranca/references/review.en-US.md`: English guidance.
 - `test/`: packaging validation, not behavioral certification of an AI model.
 
-[Contributing](CONTRIBUTING.md) · [Security](SECURITY.md)
+[Contributing](CONTRIBUTING.en-US.md) · [Security](SECURITY.en-US.md)
 
 MIT © Rodrigo Rodrigues
 
@@ -59,7 +59,7 @@ Official reference: https://code.claude.com/docs/en/plugins-reference
 
 ## Practical use — 1.2.0
 
-The bilingual `references/integracao.md` guides consumer reviews, pinned versions, licensing and persisted formats. Passing isolated module tests does not validate system integration.
+The localized `references/integracao.md` guides consumer reviews, pinned versions, licensing and persisted formats. Passing isolated module tests does not validate system integration.
 
 ---
 

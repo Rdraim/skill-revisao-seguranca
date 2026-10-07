@@ -44,7 +44,7 @@ Una revisión de código no autoriza pruebas de intrusión, cambios de producci�
 
 Estos módulos independientes se inspiran en problemas resueltos en Nexus, proyecto de Rodrigo Rodrigues. No incluyen bases privadas, configuración de despliegue, logs, credenciales ni registros de usuarios. El mantenimiento coordinado consiste en revisar cambios relacionados en el mismo ciclo; no copia automáticamente archivos privados.
 
-[Cómo contribuir](CONTRIBUTING.md) · [Seguridad](SECURITY.md)
+[Cómo contribuir](CONTRIBUTING.es-AR.md) · [Seguridad](SECURITY.es-AR.md)
 
 MIT © Rodrigo Rodrigues
 
@@ -52,7 +52,7 @@ Referencia oficial: https://code.claude.com/docs/en/plugins-reference
 
 ## Uso práctico — 1.2.0
 
-La referencia bilingüe `references/integracao.md` orienta la revisión de consumidores, versiones fijadas, licencias y formatos persistidos. Aprobar pruebas aisladas de un módulo no valida la integración del sistema.
+La referencia localizada `references/integracao.md` orienta la revisión de consumidores, versiones fijadas, licencias y formatos persistidos. Aprobar pruebas aisladas de un módulo no valida la integración del sistema.
 
 ---
 
