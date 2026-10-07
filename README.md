@@ -7,7 +7,7 @@
 # skill-revisao-seguranca
 
 <!-- public-badges:start -->
-[![license](assets/support/badge-license.svg)](LICENSE) [![CI](assets/support/badge-ci.svg)](https://github.com/Rdraim/skill-revisao-seguranca/actions) [![release](assets/support/badge-release.svg)](https://github.com/Rdraim/skill-revisao-seguranca/releases)
+[![license](assets/support/badge-license.svg)](LICENSE) [![CI](assets/support/badge-ci.svg)](https://github.com/Rdraim/skill-revisao-seguranca/actions) [![release](assets/support/badge-release.svg)](https://github.com/Rdraim/skill-revisao-seguranca/releases) [![Git](assets/support/badge-git.svg)](https://github.com/Rdraim/skill-revisao-seguranca/commits/main)
 <!-- public-badges:end -->
 
 Plugin / **skill** de **revisão de segurança** para o [Claude Code](https://claude.com/claude-code).
