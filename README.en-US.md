@@ -14,7 +14,7 @@ No runtime dependency, external service, credential or user record is included.
 ## Download and inspect
 
 ```sh
-git clone https://github.com/techrodrigo21-ux/skill-revisao-seguranca.git
+git clone https://github.com/Rdraim/skill-revisao-seguranca.git
 cd skill-revisao-seguranca
 npm test
 node tools/check-public-content.mjs
@@ -27,7 +27,7 @@ the instructions can also be adapted to another SKILL.md-compatible agent.
 ## Install in Claude Code
 
 ```text
-/plugin marketplace add techrodrigo21-ux/skill-revisao-seguranca
+/plugin marketplace add Rdraim/skill-revisao-seguranca
 /plugin install revisao-seguranca@revisao-seguranca
 ```
 
@@ -77,7 +77,7 @@ I’m **Rodrigo Rodrigues**, creator of **Nexus** and these open source projects
 
 <p>
   <a href="#support-via-pix"><img src="assets/support/pix-en-us.svg" width="190" height="44" alt="Support via Pix"></a>
-  <a href="https://github.com/techrodrigo21-ux/skill-revisao-seguranca/issues/new?title=Feedback%3A%20this%20project%20helped%20me"><img src="assets/support/comment-en-us.svg" width="210" height="44" alt="Leave a comment"></a>
+  <a href="https://github.com/Rdraim/skill-revisao-seguranca/issues/new?title=Feedback%3A%20this%20project%20helped%20me"><img src="assets/support/comment-en-us.svg" width="210" height="44" alt="Leave a comment"></a>
 </p>
 
 ### Support via Pix
@@ -98,7 +98,7 @@ Pix is Brazil’s payment system. If your bank does not support it, you can stil
 
 ### Your feedback matters, too
 
-[Tell me how the project helped you](https://github.com/techrodrigo21-ux/skill-revisao-seguranca/issues/new?title=Feedback%3A%20this%20project%20helped%20me). I’d love to hear what you built, what you learned, and what could be clearer for someone just starting out.
+[Tell me how the project helped you](https://github.com/Rdraim/skill-revisao-seguranca/issues/new?title=Feedback%3A%20this%20project%20helped%20me). I’d love to hear what you built, what you learned, and what could be clearer for someone just starting out.
 
 A comment is welcome with or without a donation. Please keep payment receipts, personal details, credentials and private user data out of public Issues.
 

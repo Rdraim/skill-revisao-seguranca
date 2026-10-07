@@ -6,6 +6,10 @@
 
 # 1.2.0 — 2026-10-07
 
+## 1.2.1 — 2026-10-07
+
+Identidade Rdraim, apresentação gráfica, revisão de compatibilidade e guarda do histórico mais eficiente. API de runtime preservada.
+
 A referência de integração `references/integracao.md` orienta revisão de consumidores, versões fixadas, licença e formatos persistidos. Teste isolado do módulo não comprova integração no sistema.
 
 # 1.1.0 — 2026-10-07
