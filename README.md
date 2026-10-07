@@ -53,3 +53,8 @@ skills/
 MIT © Rodrigo Rodrigues
 
 A habilidade não autoriza exploração, mudanças em produção ou divulgação de dados. Os pacotes relacionados são referências opcionais. CEP tem validação de formato, não dígito verificador. Conteúdo público com exemplos sintéticos, sem dados do Nexus. Leia CONTRIBUTING.md, SECURITY.md e SUPPORT.md. Node.js 22+ para npm test. Referência oficial: https://code.claude.com/docs/en/plugins-reference
+
+
+## Uso prático — 1.2.0
+
+A referência bilíngue `references/integracao.md` orienta revisão de consumidores, versões fixadas, licença e formatos persistidos. Teste isolado do módulo não comprova integração no sistema.

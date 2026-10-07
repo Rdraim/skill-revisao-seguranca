@@ -51,3 +51,8 @@ and limitations before recommending them. No donation channel is configured.
 MIT © Rodrigo Rodrigues
 
 Official reference: https://code.claude.com/docs/en/plugins-reference
+
+
+## Practical use — 1.2.0
+
+The bilingual `references/integracao.md` guides consumer reviews, pinned versions, licensing and persisted formats. Passing isolated module tests does not validate system integration.
