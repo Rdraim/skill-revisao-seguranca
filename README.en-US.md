@@ -1,6 +1,6 @@
 # skill-revisao-seguranca
 
-[Brazilian Portuguese](README.md) · [Voluntary support](SUPPORT.md)
+[Brazilian Portuguese](README.md) · [Voluntary support](SUPPORT.en-US.md)
 
 A security review skill for web and Node.js API code, packaged as a Claude Code
 plugin. It produces prioritized findings with evidence and actionable fixes.
@@ -46,7 +46,7 @@ and limitations before recommending them. No donation channel is configured.
 - `skills/revisao-seguranca/references/review.en-US.md`: English guidance.
 - `test/`: packaging validation, not behavioral certification of an AI model.
 
-[Contributing](CONTRIBUTING.md) · [Security](SECURITY.md) · [Support](SUPPORT.md)
+[Contributing](CONTRIBUTING.md) · [Security](SECURITY.md) · [Support](SUPPORT.en-US.md)
 
 MIT © Rodrigo Rodrigues
 
@@ -56,3 +56,10 @@ Official reference: https://code.claude.com/docs/en/plugins-reference
 ## Practical use — 1.2.0
 
 The bilingual `references/integracao.md` guides consumer reviews, pinned versions, licensing and persisted formats. Passing isolated module tests does not validate system integration.
+
+
+## ☕ Support this work
+
+If this project helped you, consider buying me a coffee. Any amount is welcome, and sharing your feedback helps too.
+
+[![Support via Pix](assets/support/pix-en-us.svg)](SUPPORT.en-US.md)
